@@ -1,4 +1,6 @@
-# Olá! Eu sou o Pedro. 👽
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=5000&color=1EB183&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Pedro.+%F0%9F%91%BD%F0%9F%91%8D;Me+contrata%2C+Please!+hehe..." alt="Typing SVG" /></a>
+</div>
 
 ### Um pouco sobre mim
 
@@ -11,6 +13,11 @@ Desde a formação, tenho participado de projetos de estudo e projetos freelance
 <div align="center">
 
   <a href="https://github.com/PedroSCY">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroSCY/PedroSCY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroSCY/PedroSCY/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroSCY/PedroSCY/output/github-contribution-grid-snake.svg">
+</picture>
   <img height="160em" src="https://streak-stats.demolab.com?user=PedroSCY&theme=gotham&hide_border=true&locale=pt_BR"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroSCY&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
 
@@ -18,6 +25,7 @@ Desde a formação, tenho participado de projetos de estudo e projetos freelance
 
   </a>
 </div>
+
 
 ## Habilidades
 
