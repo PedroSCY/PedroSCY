@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=5000&color=1EB183&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Pedro.+%F0%9F%91%BD%F0%9F%91%8D;Tem+uma+vaga+ai+pra+mim%3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=5000&color=1EB183&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Pedro.+%F0%9F%91%BD%F0%9F%91%8D;Tem+uma+vaga+ai+pra+mim%3F" alt="Typing SVG" /></a>
 </div>
 
 ### Um pouco sobre mim
