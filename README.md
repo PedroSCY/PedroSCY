@@ -35,7 +35,20 @@ Desde a formação, tenho participado de projetos de estudo e projetos freelance
 
 ## Contribuições Relevantes
 
-<table >
+<table border="0">
+  <tbody>
+    <tr>
+      <td><b>SCYPAY</b></td>
+      <td width="70%" rowspan="4">
+  <a href="https://github.com/PedroSCY">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroSCY&repo=SCYPAY&show_icons=true&theme=gotham&hide_border=true)](https://github.com/PedroSCY/SCYPAY)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="0">
   <tbody>
     <tr>
       <td><b>S3curity</b></td>
@@ -47,7 +60,6 @@ Desde a formação, tenho participado de projetos de estudo e projetos freelance
     </tr>
   </tbody>
 </table>
-
 ## Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/P.lucasg/)
